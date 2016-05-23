@@ -1,0 +1,39 @@
+-
+  Name: "Banana Chocolate Chip Muffins"
+  Ingredients:
+    -
+      what: "ripe banana - peeled"
+      amount: 1
+    -
+      what: "large egg"
+      amount: 1
+    -
+      what: "peanut butter"
+      amount: 0.5
+      unit: "cup"
+    -
+      what: "honey (or agave)"
+      amount: 3
+      unit: "tbs"
+    -
+      what: "vanilla extract"
+      amount: 1
+      unit: "tbs"
+    -
+      what: "baking soda"
+      amount: 0.25
+      unit: "tsp"
+    -
+      what: "salt"
+      amount: 1
+      unit: "pinch"
+    -
+      what: "semi-sweet choc. chips"
+      amount: 0.5
+      unit: "cup"
+  Instructions:
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
